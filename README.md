@@ -1,10 +1,10 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="✩*.ﾟ｡@°•★ °o•＊9e★ °o•＊•₊📎☆ ﾟo🎧⊹♡, I'm Estef" /></a>
-</p>
+<div align="center">
+
+  <!-- TÍTULO EN TEXTO REAL -->
+  <h1>Hi ✩*.ﾟ｡@°•★ °o•＊9e★ °o•＊•₊📎☆ ﾟo🎧⊹♡, I'm Estef</h1>
 
   <!-- TEXTO ANIMADO INTERACTIVO -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/estefpablo12-commits">
     <img src="https://readme-typing-svg.demolab.com/?lines=Apasionada%20por%20dise%C3%B1ar%20y%20crear;Uniendo%20tecnolog%C3%ADa%20y%20est%C3%A9tica;Aprendiendo%20algo%20nuevo%20cada%20d%C3%ADa&font=Fira+Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=1000&size=20" />
   </a>
 
